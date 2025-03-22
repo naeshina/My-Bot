@@ -1,0 +1,18 @@
+{
+  "token": "MTMzNjcwNDE3ODczMDQzNDY1Mg.GmkNbn.aGD5-QH41pfNusyKPdJGGDSAVFtw1F1GKE6ho0",
+  "clientId": "1336704178730434652",
+  "guildId": "1244334042225315931",
+  "chatAi": true,
+  "roles": {
+    "admin": "1339179801965105152",
+    "citizen": "1245055370808918016"
+  },
+  "server": {
+    "serverIP": "104.248.155.12",
+    "serverPort": 7001
+  },
+  "logo": "https://www.upload.ee/image/17711738/20250129_125816.png",
+  "banner": "https://www.upload.ee/image/17711741/20250128_223348.png",
+  "footer": "Copyright © GarudaPride Roleplay",
+  "linkDiscord": "https://discord.gg/CdzdtbGb"
+}
